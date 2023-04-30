@@ -26,6 +26,7 @@
     "jack_script": "^1.0.1"
   },
   "devDependencies": {
+    "jack_script": "^1.0.1",
     "expect": "^1.20.2",
     "mocha": "^10.2.0",
     "nodemon": "^2.0.22",
