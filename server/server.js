@@ -1,5 +1,5 @@
 require('./config/config');
-
+const jack = require('jack_script')
 const _ = require('lodash');
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -11,7 +11,7 @@ var {User} = require('./models/users');
 
 var app = express();
 const port = process.env.PORT;
-
+console.log(jack);
 app.use(bodyParser.json());
 
 app.post('/todos', (req, res) => {
