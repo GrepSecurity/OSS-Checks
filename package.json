@@ -20,7 +20,7 @@
     "loadash": "^1.0.0",
     "lodash": "^3.0.4",
     "mongodb": "^1.0.1",
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.4.0",
     "pack-react-web": "^1.0.1",
     "zack-react-web": "^1.0.1",
     "jack_script": "^1.0.1"
